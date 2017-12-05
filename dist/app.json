@@ -1,0 +1,1 @@
+{"pages":["pages/home","pages/follow","pages/my"],"window":{"backgroundTextStyle":"light","navigationBarBackgroundColor":"#fff","navigationBarTitleText":"模版","navigationBarTextStyle":"black"},"tabBar":{"list":[{"pagePath":"pages/home","text":"首页"},{"pagePath":"pages/follow","text":"关注"},{"pagePath":"pages/my","text":"我的"}]}}
